@@ -1,2 +1,2 @@
 ## Hi There!
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=abdalrahimnaser&style=pixel)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=abdalrahimnaser)
